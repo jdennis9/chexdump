@@ -11,7 +11,7 @@ chex [options...] format infile
 Options:
         -h,--help: Show this help and exit
         -wordsize <value>: Set word size in bytes. Supported sizes: 1, 2, 4, 8
-        -caps: Capitilize variable names
+        -caps: Capitalize variable names
         -name <value>: Set base name for variables
         -prefix <string>: Prefix variable names with string
 
